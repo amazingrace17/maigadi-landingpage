@@ -3,7 +3,17 @@
  * License https://froala.com/wysiwyg-editor/terms/
  * Copyright 2014-2021 Froala Labs
  */
-
+ #homepage{
+  /* margin-top:15px;
+  width:300px; */
+  /*   */
+ }
+#maigadi {
+  font-size:100px;
+}
+#body{
+  background: #241c58;
+}
 .fr-clearfix::after {
   clear: both;
   display: block;
@@ -36420,6 +36430,7 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         p.u-large-text
         {
+          color: white;
         font-size: 1.25rem;
         margin-top: 20px;
         margin-bottom: 20px;
